@@ -10,4 +10,5 @@ This page gathers my academic work in mathematics and machine learning: internsh
 - [RL_projects](https://github.com/nelfarta/RL_projects): reinforcement learning projects, starting with a study of LayerNorm in the critic for DDPG and TD3.
 
 **Contact:** norman.el_fartass [at] ens-paris-saclay [dot] fr
+
 **Linkedin:** [Linkedin](https://www.linkedin.com/in/norman-el-fartass-1a89b5225/)
