@@ -2,7 +2,7 @@
 
 Third-year student at ENS Paris-Saclay, and M2 student in MS2A at Sorbonne Université.
 
-This page gathers my academic work in mathematics and machine learning: internship reports, reinforcement learning projects and mathematics notes.
+This page gathers my academic work in mathematics and machine learning: internship reports, reinforcement learning projects and mathematics notes. More projects coming soon!
 
 ## Repositories
 
