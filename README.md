@@ -6,7 +6,7 @@ This page gathers my academic work in mathematics and machine learning: internsh
 
 ## Repositories
 
-- [internship-reports](https://github.com/nelfarta/internship-reports): reports of my internships (Centre Borelli, IPOL, 2025; University of Cambridge, 2026).
+- [internship_reports](https://github.com/nelfarta/internship_reports): reports of my internships (Centre Borelli, IPOL, 2025; University of Cambridge, 2026).
 - [RL_projects](https://github.com/nelfarta/RL_projects): reinforcement learning projects, starting with a study of LayerNorm in the critic for DDPG and TD3.
 
 **Contact:** norman.el_fartass [at] ens-paris-saclay [dot] fr
